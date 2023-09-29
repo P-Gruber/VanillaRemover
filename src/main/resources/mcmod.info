@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vanillaremover",
+  "name": "Vanilla Remover",
+  "description": "Removes all spawn registries for vanilla creatures, preventing their natural spawning.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/P-Gruber/VanillaRemover.git",
+  "updateUrl": "",
+  "authorList": ["GitHub @P-Gruber"],
+  "credits": "GitHub @P-Gruber",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

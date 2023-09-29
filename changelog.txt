@@ -1,0 +1,3 @@
+Build: 1.0.0
+	patrick:
+		Removes all vanilla creatures from the biomes spawn registries
